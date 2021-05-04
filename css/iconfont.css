@@ -1,0 +1,35 @@
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_1854247_meu5r7stww.eot?t=1591371651396'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_1854247_meu5r7stww.eot?t=1591371651396#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPsAAsAAAAACAgAAAOfAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDcIMnATYCJAMMCwgABCAFhG0HNxvuBlGU7UmS7AtsG/YEEUiKApBUQROIYQy4A24rfIBVAMAAEA9fY78/d3ffIiJJNNK9Q2JIoolGSSRINIYUvTS6Zxr8/7829QeIFUQ88sUgP1khgLYT80Y4MW0dO7tPgff7Dcxz0CE1KKQ/NKH++VGoZrVCVstviBHOVD7P5fSuIZDND5TLHFuPemEYBxTQ3lZ0InGBJOotw2u7VId1n0CrSUE0NnOKqkBfQZcF4lwU2kE/Y1MamkOzUCv2FnENOprTpeYL4Cr4fnyLCH2SRkbXbp9ls5D2Zve3VGtUParJI0A+nQfiITKWgELsVfp2aUW5JVpadZ12c3VVhDRVUq0mkBl/eFVFEkRFG9vBHOQTb3aOLNGXguKq5Q9nqFi4A/BiGfoDeoqUJpyYS5lpDfnOgd0Xhsalt677Ekm/Jyj2+4LxWdIfEXHaPBKA2JbkrL1+KEH1GCbOeQBGJuW7znWXbg3zbPKGmc6TgvCOxvG2zS3RsiNoLa3sx/Vk16Vfv65686b63bvagzOvm1DkGL59W1N28lhxFn0nZ06c2kx0tW+zd/t5x3+5wV8DVgvzSsD1otYRfv/igQFKSjqBvBr2cG2L4Z/lqE2BePfw4mcGasy1UoeC1WJUXMx3rPznnqY2FjFrbeSkrpn+hnqh6GLcgbaUWH4HmGN/TWx2dZ3rLZtpQOhNOWVj7vL8ui71ZE5WOsZFKKfdaf5fvsPEnjg6swseK1KYh6mfp34H5S5vVc2ka9fSDIpR7D65+ifmx/HXmtM9r4SkpjfnJcX5gRVrqpsrL91qQxfmKy0E/psf5LSf+Ru/PHnXapb002xUwCvMTgSR/xboVg+aJTrLf528Y1cxlNSeiyZzZJY/u0hFJEAi6f2wVuj1dXhgACSe0CzJAUmTCWTNpsjCXkJDm2VUzVbQalHu4TZ9CC1RWrBgiiB0u4ik0z2ybi/Jwv6ChkH/UHWHFlrthNWZbWZCNMwkXDvlWNTRh0QGK3jbSQ3D5gpO6JK1k7Qy4NZwRCUmUXhIWL6Yyyk4MsUGVbcQQSmPeILlKIc8xslkGCkJ7uQYGiKhVJkQGspX0RTCYDkY2kBw2lEcFtKhDyJiYAq8N5gyLHy+AkfQRaYdaaDURWtwCBVxdCRciLAOZK5O0YlyK6+odBNEoCgewiMwOSSHeDgylsMQZfWsThwGFUIyIKOUIBR78V11Icsb5O93CFrRK3OkyFGUI4yluoxIGBkHAAA=') format('woff2'),
+  url('//at.alicdn.com/t/font_1854247_meu5r7stww.woff?t=1591371651396') format('woff'),
+  url('//at.alicdn.com/t/font_1854247_meu5r7stww.ttf?t=1591371651396') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_1854247_meu5r7stww.svg?t=1591371651396#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-book:before {
+  content: "\e64f";
+}
+
+.icon-circle:before {
+  content: "\e617";
+}
+
+/* 自定义note */
+.note.custom {
+  background-color: #f7f7f7;
+  border-left-color: #777;
+  display: block;
+}
+.custom:not(.no-icon)::before {
+  font-family: "iconfont";
+  color:var(--icon-color,#333);
+}
