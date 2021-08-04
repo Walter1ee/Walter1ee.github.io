@@ -16,14 +16,14 @@
   </url>
   
   <url>
-    <loc>www.anyiwill.cn/about/index.html</loc>
+    <loc>www.anyiwill.cn/categories/index.html</loc>
     
     <lastmod>2021-05-04</lastmod>
     
   </url>
   
   <url>
-    <loc>www.anyiwill.cn/categories/index.html</loc>
+    <loc>www.anyiwill.cn/about/index.html</loc>
     
     <lastmod>2021-05-04</lastmod>
     
@@ -51,6 +51,13 @@
   </url>
   
   <url>
+    <loc>www.anyiwill.cn/certifiedco.html</loc>
+    
+    <lastmod>2021-05-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>www.anyiwill.cn/freighttemplate.html</loc>
     
     <lastmod>2021-05-04</lastmod>
@@ -59,13 +66,6 @@
   
   <url>
     <loc>www.anyiwill.cn/okki.html</loc>
-    
-    <lastmod>2021-05-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>www.anyiwill.cn/certifiedco.html</loc>
     
     <lastmod>2021-05-04</lastmod>
     
@@ -86,7 +86,7 @@
   </url>
   
   <url>
-    <loc>www.anyiwill.cn/p4p.html</loc>
+    <loc>www.anyiwill.cn/milliondollarclub.html</loc>
     
     <lastmod>2021-05-04</lastmod>
     
@@ -100,14 +100,7 @@
   </url>
   
   <url>
-    <loc>www.anyiwill.cn/tradeassurance.html</loc>
-    
-    <lastmod>2021-05-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>www.anyiwill.cn/milliondollarclub.html</loc>
+    <loc>www.anyiwill.cn/p4p.html</loc>
     
     <lastmod>2021-05-04</lastmod>
     
@@ -115,6 +108,13 @@
   
   <url>
     <loc>www.anyiwill.cn/starlevel4.html</loc>
+    
+    <lastmod>2021-05-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>www.anyiwill.cn/tradeassurance.html</loc>
     
     <lastmod>2021-05-04</lastmod>
     
@@ -137,7 +137,7 @@
 
   
   <url>
-    <loc>www.anyiwill.cn/tags/%E5%A4%96%E8%B4%B8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
+    <loc>www.anyiwill.cn/tags/%E9%98%BF%E9%87%8C%E5%9B%BD%E9%99%85%E7%AB%99/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -151,7 +151,7 @@
   </url>
   
   <url>
-    <loc>www.anyiwill.cn/tags/%E9%98%BF%E9%87%8C%E5%9B%BD%E9%99%85%E7%AB%99/</loc>
+    <loc>www.anyiwill.cn/tags/%E5%A4%96%E8%B4%B8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -165,7 +165,7 @@
   </url>
   
   <url>
-    <loc>www.anyiwill.cn/tags/%E5%A4%96%E8%B4%B8%E7%9B%B4%E9%80%9A%E8%BD%A6/</loc>
+    <loc>www.anyiwill.cn/tags/%E7%99%BE%E4%B8%87%E7%BE%8E%E9%87%91%E4%BF%B1%E4%B9%90%E9%83%A8/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -173,6 +173,20 @@
   
   <url>
     <loc>www.anyiwill.cn/tags/%E5%AF%84%E8%AF%AD/</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>www.anyiwill.cn/tags/%E5%A4%96%E8%B4%B8%E7%9B%B4%E9%80%9A%E8%BD%A6/</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>www.anyiwill.cn/tags/%E5%95%86%E5%AE%B6%E6%98%9F%E7%AD%89%E7%BA%A7/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -193,7 +207,7 @@
   </url>
   
   <url>
-    <loc>www.anyiwill.cn/tags/%E7%99%BE%E4%B8%87%E7%BE%8E%E9%87%91%E4%BF%B1%E4%B9%90%E9%83%A8/</loc>
+    <loc>www.anyiwill.cn/tags/%E8%AE%A4%E8%AF%81%E5%85%AC%E5%8F%B8/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -208,20 +222,6 @@
   
   <url>
     <loc>www.anyiwill.cn/tags/p4p%E5%B9%B4%E6%A1%86/</loc>
-    <lastmod>2021-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>www.anyiwill.cn/tags/%E8%AE%A4%E8%AF%81%E5%85%AC%E5%8F%B8/</loc>
-    <lastmod>2021-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>www.anyiwill.cn/tags/%E5%95%86%E5%AE%B6%E6%98%9F%E7%AD%89%E7%BA%A7/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
