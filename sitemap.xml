@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>www.anyiwill.cn/about/index.html</loc>
-    
-    <lastmod>2021-05-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>www.anyiwill.cn/categories/index.html</loc>
     
     <lastmod>2021-05-04</lastmod>
@@ -37,14 +30,14 @@
   </url>
   
   <url>
-    <loc>www.anyiwill.cn/verifiedsupplier.html</loc>
+    <loc>www.anyiwill.cn/about/index.html</loc>
     
     <lastmod>2021-05-04</lastmod>
     
   </url>
   
   <url>
-    <loc>www.anyiwill.cn/tradeassurance2.html</loc>
+    <loc>www.anyiwill.cn/verifiedsupplier.html</loc>
     
     <lastmod>2021-05-04</lastmod>
     
@@ -72,7 +65,7 @@
   </url>
   
   <url>
-    <loc>www.anyiwill.cn/highqualityproduction.html</loc>
+    <loc>www.anyiwill.cn/tradeassurance2.html</loc>
     
     <lastmod>2021-05-04</lastmod>
     
@@ -80,13 +73,6 @@
   
   <url>
     <loc>www.anyiwill.cn/foreigntrade.html</loc>
-    
-    <lastmod>2021-05-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>www.anyiwill.cn/starlevel4.html</loc>
     
     <lastmod>2021-05-04</lastmod>
     
@@ -107,6 +93,13 @@
   </url>
   
   <url>
+    <loc>www.anyiwill.cn/highqualityproduction.html</loc>
+    
+    <lastmod>2021-05-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>www.anyiwill.cn/p4p.html</loc>
     
     <lastmod>2021-05-04</lastmod>
@@ -115,6 +108,13 @@
   
   <url>
     <loc>www.anyiwill.cn/tradeassurance.html</loc>
+    
+    <lastmod>2021-05-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>www.anyiwill.cn/starlevel4.html</loc>
     
     <lastmod>2021-05-04</lastmod>
     
@@ -137,7 +137,7 @@
 
   
   <url>
-    <loc>www.anyiwill.cn/tags/%E9%98%BF%E9%87%8C%E5%9B%BD%E9%99%85%E7%AB%99/</loc>
+    <loc>www.anyiwill.cn/tags/%E5%A4%96%E8%B4%B8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -151,21 +151,7 @@
   </url>
   
   <url>
-    <loc>www.anyiwill.cn/tags/%E5%AE%9E%E5%8A%9B%E4%BC%98%E5%93%81/</loc>
-    <lastmod>2021-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>www.anyiwill.cn/tags/%E5%A4%96%E8%B4%B8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2021-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>www.anyiwill.cn/tags/%E5%95%86%E5%AE%B6%E6%98%9F%E7%AD%89%E7%BA%A7/</loc>
+    <loc>www.anyiwill.cn/tags/%E9%98%BF%E9%87%8C%E5%9B%BD%E9%99%85%E7%AB%99/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -180,6 +166,13 @@
   
   <url>
     <loc>www.anyiwill.cn/tags/%E5%AF%84%E8%AF%AD/</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>www.anyiwill.cn/tags/%E5%AE%9E%E5%8A%9B%E4%BC%98%E5%93%81/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -222,6 +215,13 @@
   
   <url>
     <loc>www.anyiwill.cn/tags/p4p%E5%B9%B4%E6%A1%86/</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>www.anyiwill.cn/tags/%E5%95%86%E5%AE%B6%E6%98%9F%E7%AD%89%E7%BA%A7/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
